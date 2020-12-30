@@ -11,7 +11,11 @@ body {
     color: white;
 }
 
-.navigation .align {
+.nav-pills {
     text-align: right;
-    color: white;
 }
+.navigation .nav-pills {
+    text-align: right;
+}
+
+
